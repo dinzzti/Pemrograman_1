@@ -1,0 +1,6 @@
+print("Input")
+a = input("Masukkan Nilai Pertama : ")
+b = float(input("Masukkan Nilai Kedua : "))
+c = float(a)+float(b)
+print("\nOutput")
+print(f'Hasil dari penjumlahan nilai pertama "{a}" dan nilai kedua "{b}" adalah "{c:.2f}"')
