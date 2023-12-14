@@ -10,5 +10,3 @@ print("Variabel b bernilai", B)
 print("Variabel x bernilai", C)
 print("Variabel y bernilai", D)
 print("Total sisa bagi dari a dibagi b dan x dibagi y adalah", G)
-
-## tinggal bikin output
