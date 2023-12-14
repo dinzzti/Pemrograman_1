@@ -12,8 +12,4 @@ void main() {
     printf("Harga sepatu B adalah %1.f\n", B);
     printf("Sepatu A mendapatkan diskon 13%%, sehingga harganya menjadi %1.f\n", D);
     printf("Sepatu B mendapatkan diskon 21%%, sehingga harganya menjadi %1.f\n", F);
-    
-
-    //kurang simbol persen
-    
 }
