@@ -21,5 +21,3 @@ print("Variabel A bernilai", B)
 print("Apakah a sama dengan b ? jawabannya adalah", D) 
 print("Apakah b lebih besar dari c ? jawabannya adalah", E)
 print("Apakah a tidak sama dengan c ? jawabannya adalah", F)
-
-##a sama dengan b nya 0 lain 1
