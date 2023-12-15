@@ -6,16 +6,16 @@ int main() {
     printf("Input\n");
     scanf("%d", &bilangan);
     printf("\nOutput\n");
-  if(bilangan < 100 && bilangan >=20) { // bilangan puluhan
+  if(bilangan < 100 && bilangan >=20) { 
     printf("Puluhan\n");
   }
-  else if(bilangan <20 && bilangan >= 10) { // bilangan belasan
+  else if(bilangan <20 && bilangan >= 10) { 
     printf("Belasan\n");
   }
-  else if(bilangan >0 && bilangan <= 9) { // bilangan satuan
+  else if(bilangan >0 && bilangan <= 9) { 
     printf("Satuan\n"); 
   }
-  else if(bilangan == 0) { // nol
+  else if(bilangan == 0) { 
     printf("Nol\n");
   }
   else {
