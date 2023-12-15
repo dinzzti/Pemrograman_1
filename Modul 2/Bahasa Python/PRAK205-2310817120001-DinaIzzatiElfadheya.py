@@ -1,5 +1,5 @@
 import math
-print("Input")##40 41 & 16 65
+print("Input")
 input_str= input()
 angka= input_str.split()
 tinggi, sisi_miring = map(float,angka)
