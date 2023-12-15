@@ -15,6 +15,5 @@ int main (){
     printf("Volume = %.2f\n", c);
     printf("Luas = %.2f\n", d);
     printf("Keliling = %.2f\n", e);
-
     return 0;
 }
