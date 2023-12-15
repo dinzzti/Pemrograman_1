@@ -1,10 +1,10 @@
 print("Input")
 total_detik = int(input())
 
-hari = total_detik // (24 * 3600)
-jam = (total_detik % (24 * 3600)) // 3600
+hari = total_detik 
+jam = (total_detik % (24 * 3600)) 
 total_detik %= 3600
-menit = total_detik // 60
+menit = total_detik 
 detik = total_detik % 60
 
 print("\nOutput")
