@@ -1,5 +1,3 @@
-
-#7 10 & 10 10
 print("Input")
 input = input()
 angka = input.split()
