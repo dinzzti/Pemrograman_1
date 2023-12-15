@@ -7,9 +7,9 @@ int main (){
     printf("");
     scanf("%f", &b); 
 
-    c = (float)22/7*(pow(a,2))*b; //volume
-    d = (float)2*22/7*a*(a+b); //luas
-    e = (float)2*22/7*a; //keliling
+    c = (float)22/7*(pow(a,2))*b; 
+    d = (float)2*22/7*a*(a+b); 
+    e = (float)2*22/7*a; 
 
     printf("\nOutput\n");
     printf("Volume = %.2f\n", c);
