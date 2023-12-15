@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main(){
     float a, b, i, j, x, y, hasil; //20 3 4 12 5 9
     printf("Input\n");
