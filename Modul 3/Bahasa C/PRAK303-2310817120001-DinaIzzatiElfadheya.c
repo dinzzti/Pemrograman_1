@@ -3,16 +3,16 @@ int main() {
     int bilangan;
 
     printf("Input\n");
-    scanf("%d", &bilangan) ;//kenapa input di terminalnya ditengah
+    scanf("%d", &bilangan) ;
 
     printf("\nOutput\n");
-  if(bilangan > 0) { //bilangan positif
+  if(bilangan > 0) { 
     printf("positif\n"); 
   }
-  else if(bilangan < 0) { // bilangan negatif
+  else if(bilangan < 0) { 
     printf("negatif\n");
   }
-  else { // nol (bukan positif atau negatif)
+  else {
     printf("nol\n");
   }
 
