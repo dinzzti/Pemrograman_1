@@ -5,7 +5,7 @@ simbol = input_str[1]
 
 print("\nOutput")
 
-for i in range(1, 51):  # loop 1-50
+for i in range(1, 51): 
     if i % bilangan == 0:
         print(simbol, end=" ")
     else:
