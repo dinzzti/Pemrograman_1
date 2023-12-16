@@ -7,7 +7,7 @@ int main() {
     scanf("%d %c", &bilangan,  &simbol);
     printf("\nOutput\n");
 
-    for (int i = 1; i <= 50; i++) { //loop 1-50
+    for (int i = 1; i <= 50; i++) {
         if (i % bilangan == 0) {
             printf("%c ", simbol);
         } else {
